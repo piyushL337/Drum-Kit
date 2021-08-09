@@ -1,5 +1,5 @@
 # Drum-Kit
-=============
+
 The point of this project is to have each key, when pressed, make a corresponding drum noise. 
 It also uses CSS transitions and animations to make the project more interactive to the user. 
 I completed this project earlier in my JavaScript learning phase. 
@@ -11,11 +11,11 @@ The user has to use the keyboard in order to play the game. Also, this project u
 
 ## JavaScript Used
 =============
-DOM Manipulation
-Control Structures
-HTML Audio API
-JavaScript CSS Manipulation
-addEventListener
+* DOM Manipulation
+* Control Structures
+* HTML Audio API
+* JavaScript CSS Manipulation
+* addEventListener
 
 
 
