@@ -7,8 +7,6 @@ I found it quite confusing because I had never used the HTML audio API or the se
 Drum Kit project is developed using HTML, CSS, and JavaScript.   
 Talking about the gameplay, it is a simple musical game.   
 It is a simple arcade game which is played with a tap.   
-The user has to use the keyboard in order to play the game.  
-Also, this project uses the NodeJs environment for setting up the server.  
 
 ## JavaScript Used
 * DOM Manipulation
